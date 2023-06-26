@@ -2,7 +2,9 @@
 Webcam Video Backgrounder Remover
 
 ![Screenshot](Screenshot from 2023-06-26 17-07-17.png)
-
+<p align="center">
+  <img src="Screenshot from 2023-06-26 17-07-17.png" width="350" title="hover text">
+</p>
 Video Background Remover
 
 P.  Hauff
