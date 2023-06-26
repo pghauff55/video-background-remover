@@ -1,7 +1,7 @@
 # video-background-remover
 Webcam Video Backgrounder Remover
 
-![alt text](./Screenshot from 2023-06-26 17-07-17.png?raw=true)
+![Screenshot](Screenshot from 2023-06-26 17-07-17.png)
 
 Video Background Remover
 
