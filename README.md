@@ -21,7 +21,7 @@ If a match is found, it is highlighted in the frame. It then checks each pixel i
 
 After that, the loop will start again. Finally, it returns 0 when the loop has completed.
 
-##Introduction
+## Introduction
 This code is written in C++ and uses OpenCV to process a Mat frame_still.
 The code is used to "map" the image by dividing it into smaller pieces,
 by setting the crop width (crop_width) and crop height (crop_height) to the
