@@ -43,13 +43,21 @@ Here are the classes, structs, unions and interfaces with brief descriptions:
 #### Public Member Functions
 ### BackGroundRemover (int WIDTH, int HEIGHT)
 void UpdateBackground ()
+
 void ColoriseBackground ()
+
 void Show ()
+
 void Process (int tile_size)
+
 void Save_Tiles (int tile_size)
+
 void Create_Tiles (int tile_size)
+
 void Colorise (float value0, float value1, float value2, int *value_out0, int *value_out1, int *value_out2)
+
 void Colorise2 (float value0, float value1, float value2, int *value_out0, int *value_out1, int *value_out2)
+
 
 ### Constructor & Destructor Documentation
 ### BackGroundRemover::BackGroundRemover (int    WIDTH, int    HEIGHT)[inline]
